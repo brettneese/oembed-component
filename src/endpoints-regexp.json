@@ -1,4 +1,7 @@
 {
+  "https://embed.runkit.com/oembed": [
+    "^http(?:s)?:\\/\\/runkit\\.com\\/.+$"
+  ],
   "https://speakerdeck.com/oembed.json": [
     "^http(?:s)?:\\/\\/speakerdeck\\.com\\/.+$"
   ],
